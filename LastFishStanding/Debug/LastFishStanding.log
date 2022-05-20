@@ -1,0 +1,23 @@
+﻿  GameOverState.cpp
+  GameState.cpp
+E:\alfred c14190016\Semester 2\PBO\LastFishStanding\LastFishStanding\GameOverState.cpp(54,90): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+E:\alfred c14190016\Semester 2\PBO\LastFishStanding\LastFishStanding\GameState.cpp(82,113): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+E:\alfred c14190016\Semester 2\PBO\LastFishStanding\LastFishStanding\GameState.cpp(264,21): warning C4018:  '<': signed/unsigned mismatch
+E:\alfred c14190016\Semester 2\PBO\LastFishStanding\LastFishStanding\GameState.cpp(283,21): warning C4018:  '<': signed/unsigned mismatch
+  MainMenuState.cpp
+E:\alfred c14190016\Semester 2\PBO\LastFishStanding\LastFishStanding\GameState.cpp(357,20): warning C4018:  '<': signed/unsigned mismatch
+E:\alfred c14190016\Semester 2\PBO\LastFishStanding\LastFishStanding\MainMenuState.cpp(44,122): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  SplashState.cpp
+  TutorialState.cpp
+E:\alfred c14190016\Semester 2\PBO\LastFishStanding\LastFishStanding\MainMenuState.cpp(60,105): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+E:\alfred c14190016\Semester 2\PBO\LastFishStanding\LastFishStanding\TutorialState.cpp(42,100): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+E:\alfred c14190016\Semester 2\PBO\LastFishStanding\LastFishStanding\TutorialState.cpp(42,40): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+E:\alfred c14190016\Semester 2\PBO\LastFishStanding\LastFishStanding\TutorialState.cpp(50,137): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+E:\alfred c14190016\Semester 2\PBO\LastFishStanding\LastFishStanding\TutorialState.cpp(50,78): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+E:\alfred c14190016\Semester 2\PBO\LastFishStanding\LastFishStanding\TutorialState.cpp(58,77): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+E:\alfred c14190016\Semester 2\PBO\LastFishStanding\LastFishStanding\TutorialState.cpp(58,24): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+E:\alfred c14190016\Semester 2\PBO\LastFishStanding\LastFishStanding\main.cpp(11,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+E:\alfred c14190016\Semester 2\PBO\LastFishStanding\LastFishStanding\main.cpp(31,20): warning C4018:  '<': signed/unsigned mismatch
+  LastFishStanding.vcxproj -> E:\alfred c14190016\Semester 2\PBO\LastFishStanding\Debug\LastFishStanding.exe
